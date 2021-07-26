@@ -185,7 +185,7 @@ function displayCart() {
         productsContainer.innerHTML += `
         <li>
         <div class="js-items">
-        <img src=" ./Project Files (Frontend)/Project Files/Images/${item.tag}.png"
+        <img src="Images/${item.tag}.png"
             alt="">
           <h4>${item.name}</h4>
         </div>
